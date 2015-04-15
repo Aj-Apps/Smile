@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smile</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">Main</string>
+
+    <string name="ad_unit_id">INSERT_YOUR_AD_UNIT_ID_HERE</string>
+    <string name="load_interstitial">Load Interstitial</string>
+    <string name="interstitial_not_ready">Interstitial Not Ready</string>
+    <string name="banner_in_xml">Banner in XML</string>
+    <string name="banner_in_code">Banner in Code</string>
+    <string name="interstitial">Interstitial</string>
+
+</resources>
